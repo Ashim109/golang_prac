@@ -1,19 +1,12 @@
 package main
 
-
-
-
-
-
 import (
 	"fmt"
 	"net/http"
 
-
-
 	"github.com/gin-gonic/gin"
 	"gorm.io/driver/postgres"
-	
+
 	"gorm.io/gorm"
 )
 
